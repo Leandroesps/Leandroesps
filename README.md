@@ -1,3 +1,6 @@
+![github-header-image](https://github.com/user-attachments/assets/19df0401-8c97-4dce-a5e8-53d37a49f01b)
+
+
 # 💫 Sobre Mi:
 Soy Leandro, un joven de 21 años apasionado por la tecnología y con una sólida formación en el área de sistemas informáticos. Mi experiencia se centra en el montaje, mantenimiento y reparación de equipos, lo que me permite ofrecer soluciones eficientes y personalizadas.<br><br>Cuando no estoy frente a un ordenador, disfruto practicando deporte, viajando y compartiendo momentos con amigos.
 
@@ -14,9 +17,6 @@ Soy Leandro, un joven de 21 años apasionado por la tecnología y con una sólid
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Leandroesps&icon=4&color=3)](https://visitcount.itsvg.in)
-
-![github-header-image](https://github.com/user-attachments/assets/19df0401-8c97-4dce-a5e8-53d37a49f01b)
-
 
 
 
