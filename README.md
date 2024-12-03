@@ -15,7 +15,8 @@ Soy Leandro, un joven de 21 años apasionado por la tecnología y con una sólid
 ---
 [![](https://visitcount.itsvg.in/api?id=Leandroesps&icon=4&color=3)](https://visitcount.itsvg.in)
 
-![Header](./your-header-image-name.png)
+![github-header-image](https://github.com/user-attachments/assets/19df0401-8c97-4dce-a5e8-53d37a49f01b)
+
 
 
 
