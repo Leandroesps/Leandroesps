@@ -1,5 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/2b56eaa2-98b3-4ad6-8ccf-96f026141f95)
-
+![github-header-image (1)](https://github.com/user-attachments/assets/49bc5a17-515a-4567-9725-8251bc3705e7)
 
 # 💫 Sobre Mi:
 Soy Leandro, un joven de 21 años apasionado por la tecnología y con una sólida formación en el área de sistemas informáticos. Mi experiencia se centra en el montaje, mantenimiento y reparación de equipos, lo que me permite ofrecer soluciones eficientes y personalizadas.<br><br>Cuando no estoy frente a un ordenador, disfruto practicando deporte, viajando y compartiendo momentos con amigos.
